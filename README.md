@@ -75,7 +75,7 @@ The Power BI dashboard includes:
 
 ## 👤 About Me
 **Harshit Shukla**  
-Data Analyst with a strong foundation in SQL, data visualization, and web development.  
+Data Analyst with a strong foundation in SQL and data visualization, delivering actionable business insights.
 Passionate about transforming raw data into actionable insights.
 
 📫 **Connect with me:**  
