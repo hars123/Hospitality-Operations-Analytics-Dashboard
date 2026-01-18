@@ -76,8 +76,7 @@ Data Analyst with a strong foundation in SQL and data visualization, delivering 
 Passionate about transforming raw data into actionable insights.
 
 📫 **Connect with me:**  
-- LinkedIn: *(Add your LinkedIn URL)*  
-- GitHub: *(Your GitHub Profile)*
+- Email : harshitshukla4513@gmail.com
 
 ---
 
